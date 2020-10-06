@@ -1,5 +1,3 @@
-# Welton Lima
-
 ##### Estou cursando Análise e Desenvolvimento de Sistema, foco em soluções práticas no desenvolvimento.
 
 ##### 📚 Estou aprendendo desenvolvimento BackEnd usando AspNet Core MVC, Entity Framework Core e Identity. Tenho conhecimentos em Node-JS, React-JS e React-Native.
