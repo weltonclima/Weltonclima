@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Welton%20Lima-007bb6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welton-lima-3ba560168/)](https://www.linkedin.com/in/welton-lima-3ba560168/) 
 [![Gmail Badge](https://img.shields.io/badge/-welton.c.lima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welton.c.lima@gmail.com)](mailto:welton.c.lima@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-weltonlimadev-517fa4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/weltondasilvalima)](https://www.instagram.com/weltondasilvalima)
+[![Instagram Badge](https://img.shields.io/badge/-weltondasilvalima-517fa4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/weltondasilvalima)](https://www.instagram.com/weltondasilvalima)
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
