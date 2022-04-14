@@ -1,7 +1,7 @@
 ##### Estou cursando Análise e Desenvolvimento de Sistema, foco em soluções práticas no desenvolvimento.
 
 ##### 📚 Estou aprendendo desenvolvimento BackEnd usando AspNet Core MVC, Entity Framework Core e Identity. Tenho conhecimentos em Node-JS, React-JS e React-Native.
-##### 👯 Desenvolvedor Jr
+##### 👯 Desenvolvedor Pleno
 
 [![Linkedin Badge](https://img.shields.io/badge/-Welton%20Lima-007bb6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welton-lima-3ba560168/)](https://www.linkedin.com/in/welton-lima-3ba560168/) 
 [![Gmail Badge](https://img.shields.io/badge/-welton.c.lima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welton.c.lima@gmail.com)](mailto:welton.c.lima@gmail.com)
